@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/andrey/Рабочий стол/BSUIR_Labs-master/5 term/Interfaces-and-Peripheral-Devices-IPD-/SbtExampleProject/project/target/.sbt-compilation-infos/sbtexampleproject-compile/.sbt-idea-lock ...[0m
-[0m[[0m[31merror[0m] [0m[0m/home/andrey/Рабочий стол/BSUIR_Labs-master/5 term/Interfaces-and-Peripheral-Devices-IPD-/SbtExampleProject/src/main/scala/example/Main.scala:17:13: value -= is not a member of Int[0m
-[0m[[0m[31merror[0m] [0m[0m  Expression does not convert to assignment because receiver is not assignable.[0m
-[0m[[0m[31merror[0m] [0m[0m      value -= 1[0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
-[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/andrey/Рабочий стол/BSUIR_Labs-master/5 term/Interfaces-and-Peripheral-Devices-IPD-/SbtExampleProject/project/target/.sbt-compilation-infos/sbtexampleproject-compile/.sbt-idea-lock.[0m

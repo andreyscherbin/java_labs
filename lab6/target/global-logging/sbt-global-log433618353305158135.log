@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, Some(241e2226-475c-45fc-9cc2-8438ad6666a4), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/andrey/Рабочий стол/BSUIR_Labs-master/5 term/Interfaces-and-Peripheral-Devices-IPD-/SbtExampleProject/target/scala-2.13/classes ...[0m
-[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
